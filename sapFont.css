@@ -1,8 +1,8 @@
 /* latin */
 @font-face {
- font-family: 'MyWebfont';
+ font-family: 'SAP Icon Font';
  font-style: normal;
  font-weight: 400;
  display: swap;
-  src: url('https://sapui5.hana.ondemand.com/1.60.13/resources/sap/ui/core/themes/base/fonts/SAP-icons.woff2') format('woff');
+ src: url('https://sapui5.hana.ondemand.com/1.60.13/resources/sap/ui/core/themes/base/fonts/SAP-icons.woff2') format('woff2');
 }
