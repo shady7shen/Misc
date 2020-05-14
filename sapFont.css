@@ -1,6 +1,8 @@
+/* latin */
 @font-face {
-  font-family: 'SAP Fiori Icons';
-  src :  url('https://sapui5.hana.ondemand.com/1.60.13/resources/sap/ui/core/themes/base/fonts/SAP-icons.woff2') format('woff');
-  font-weight: normal;
-  font-style: normal;
+ font-family: 'MyWebfont';
+ font-style: normal;
+ font-weight: 400;
+ display: swap;
+  src: url('https://sapui5.hana.ondemand.com/1.60.13/resources/sap/ui/core/themes/base/fonts/SAP-icons.woff2') format('woff');
 }
